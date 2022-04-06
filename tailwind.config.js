@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'poppins': ['Poppins', 'sans-serif'] 
+        'poppins': ['Source Code Pro', 'Poppins', 'sans-serif'],
       },
       colors: {
             //   indigo: 'red',
